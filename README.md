@@ -99,7 +99,8 @@ Analog simulation by SPECTRE.
 
 For Transient Analysis Settings and Output
  
-![IMG-20241019-WA0040](https://github.com/user-attachments/assets/384f880f-a1e4-4afa-8302-d7667c2f535b)
+![vlsi5-final](https://github.com/user-attachments/assets/934ea73f-7d98-4582-b499-4bc2507f6217)
+
 
 
  
